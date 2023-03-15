@@ -26,3 +26,4 @@
 - I'm not me if not listen music
 - Enjoys learn
 
+![Metrics](/github-metrics.svg)
