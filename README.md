@@ -29,7 +29,7 @@
 
 - 🎧I'm not me if not listen music
 
-- Enjoys learn
+- 📚Enjoys learn
 
 ### Previous lerned
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel)](https://skillicons.dev)
