@@ -23,11 +23,11 @@
   </a>
 </div>
 
-- Backend developer at BitBox Caribe SRL
+- 💻Backend developer at BitBox Caribe SRL
 
-- Loves a fresh cup of coffee
+- ☕Loves a fresh cup of coffee
 
-- I'm not me if not listen music
+- 🎧I'm not me if not listen music
 
 - Enjoys learn
 
