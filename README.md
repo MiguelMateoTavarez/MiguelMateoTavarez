@@ -31,10 +31,10 @@
 
 - 📚Enjoys learn
 
-### Previous lerned
+### Lerned
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel)](https://skillicons.dev)
 
-### Actual learning
+### Learning
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript)](https://skillicons.dev)
 
 ### Next to learn
