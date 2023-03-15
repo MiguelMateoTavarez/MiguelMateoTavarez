@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel Angel Mateo Tavarez</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Miguel+Angel+Mateo+Tavarez)](https://git.io/typing-svg)
 <div align="left">
   <a target="_blank" href="https://twitter.com/MiguelMateoT">
     <img
