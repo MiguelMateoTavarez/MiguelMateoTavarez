@@ -1,5 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Miguel+Angel+Mateo+Tavarez!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
-<img  src="assests/borderseperator.gif">
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Miguel+Mateo!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
+</h1>
 <div align="left">
   <a target="_blank" href="https://twitter.com/MiguelMateoT">
     <img
@@ -19,7 +20,7 @@
        width="300"
        align="right"
        alt="Miguel Mateo's Dev Card"/>
-</a>
+  </a>
 </div>
 
 - Backend developer at BitBox Caribe SRL
@@ -30,4 +31,17 @@
 
 - Enjoys learn
 
-![Metrics](/github-metrics.svg)
+### Previous lerned
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel)](https://skillicons.dev)
+
+### Actual learning
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript)](https://skillicons.dev)
+
+### Next to learn
+[![My Skills](https://skillicons.dev/icons?i=nest,vue)](https://skillicons.dev)
+
+<h2></h2><br>
+
+<p align="center"><br>
+    <img align="center" src="./github-metrics.svg" alt="Metrics" /> <br>
+</p>
