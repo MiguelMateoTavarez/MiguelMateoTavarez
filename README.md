@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Miguel+Angel+Mateo+Tavarez)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Miguel+Angel+Mateo+Tavarez!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
+<img  src="assests/borderseperator.gif">
 <div align="left">
   <a target="_blank" href="https://twitter.com/MiguelMateoT">
     <img
@@ -22,9 +23,11 @@
 </div>
 
 - Backend developer at BitBox Caribe SRL
-- Loves a fresh cup of coffee
-- I'm not me if not listen music
-- Enjoys learn
 
+- Loves a fresh cup of coffee
+
+- I'm not me if not listen music
+
+- Enjoys learn
 
 ![Metrics](/github-metrics.svg)
