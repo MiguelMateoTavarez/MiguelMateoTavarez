@@ -31,7 +31,7 @@
 
 - 📚Enjoys learn
 
-### Lerned
+### Learned
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel)](https://skillicons.dev)
 
 ### Learning
