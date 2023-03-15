@@ -42,6 +42,6 @@
 
 <h2></h2><br>
 
-<p align="center"><br>
+<!-- <p align="center"><br>
     <img align="center" src="./github-metrics.svg" alt="Metrics" /> <br>
-</p>
+</p> -->
