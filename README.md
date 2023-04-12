@@ -23,13 +23,15 @@
   </a>
 </div>
 
-- 💻Backend developer at BitBox Caribe SRL
+Apasionado de tecnología y tendencias en desarrollo, mi interés en Javascript y sus herramientas de backend crece día a día. Aunque Laravel es mi zona de confort, deseo dominar Typescript, NodeJS, Nest, Next e incluso Vue para crear belleza ocasionalmente.
 
-- ☕Loves a fresh cup of coffee
+- 💻I'm backend developer at BitBox Caribe SRL
+
+- ☕I Loves a fresh cup of coffee
 
 - 🎧I'm not me if not listen music
 
-- 📚Enjoys learn
+- 📚I Enjoy learn
 
 ### Learned
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel,typescript)](https://skillicons.dev)
@@ -38,7 +40,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ### Next to learn
-[![My Skills](https://skillicons.dev/icons?i=nest,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nest,next,vue)](https://skillicons.dev)
 
 <h2></h2><br>
 
