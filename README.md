@@ -23,7 +23,7 @@
   </a>
 </div>
 
-Apasionado de tecnología y tendencias en desarrollo, mi interés en Javascript y sus herramientas de backend crece día a día. Aunque Laravel es mi zona de confort, deseo dominar Typescript, NodeJS, Nest, Next e incluso Vue para crear belleza ocasionalmente.
+Passionate about technology and developing trends, my interest in Javascript and its backend tools is growing day by day. Although Laravel is my comfort zone, I want to master Typescript, NodeJS, Nest, Next, and even Vue for the occasional beauty.
 
 - 💻I'm backend developer at BitBox Caribe SRL
 
