@@ -32,10 +32,10 @@
 - 📚Enjoys learn
 
 ### Learned
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel,typescript)](https://skillicons.dev)
 
 ### Learning
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ### Next to learn
 [![My Skills](https://skillicons.dev/icons?i=nest,vue)](https://skillicons.dev)
