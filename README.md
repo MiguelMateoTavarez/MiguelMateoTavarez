@@ -34,13 +34,13 @@ Passionate about technology and developing trends, my interest in Javascript and
 - 📚I Enjoy learn
 
 ### Learned
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel,typescript,nodejs)](https://skillicons.dev)
 
 ### Learning
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nest)](https://skillicons.dev)
 
 ### Next to learn
-[![My Skills](https://skillicons.dev/icons?i=nest,next,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,vue)](https://skillicons.dev)
 
 <h2></h2><br>
 
