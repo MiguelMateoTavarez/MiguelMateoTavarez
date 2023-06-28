@@ -50,4 +50,4 @@ Passionate about technology and developing trends, my interest in Javascript and
 
 ## Portfolio
 
-<a href="https://nextjspokedex.vercel.app/imgs/banner.png">Pokedex</a>
+<a href="[https://nextjspokedex.vercel.app/imgs/banner.png](https://nextjspokedex.vercel.app/)https://nextjspokedex.vercel.app/">Pokedex</a>
