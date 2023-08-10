@@ -44,5 +44,5 @@ Passionate about technology and developing trends, my interest in Javascript and
 
 ## Portfolio
 
-[NextJS-Pokedex](https://nextjspokedex.vercel.app/)
-[Gi-Finder](https://main--venerable-sorbet-9f59de.netlify.app/)
+* [NextJS-Pokedex](https://nextjspokedex.vercel.app/)
+* [Gi-Finder](https://main--venerable-sorbet-9f59de.netlify.app/)
