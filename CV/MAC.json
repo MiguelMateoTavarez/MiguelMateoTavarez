@@ -1,0 +1,245 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Ing.",
+      "surnames": "Miguel Angel Mateo Tavarez",
+      "title": "Ingeniero en sistemas | Programador backend",
+      "description": "Hola, soy Miguel Mateo, ingeniero en sistemas, tengo como objetivo primario\nllegar a adquirir toda la experiencia necesaria para poder contribuir a\ndesarrollar aplicaciones web de calidad con la meta de convertirme en un\nexcelente programador fullstack y mentor de nuevos talentos en el área."
+    },
+    "interestingFacts": [
+      {
+        "topic": "Hobbies",
+        "fact": "Aprender cosas nuevas\nSalir con amigos\nEscuchar música\nVer películas o series\nJugar a videojuegos\nRealizar modelados en 3D"
+      },
+      {
+        "topic": "Series favoritas",
+        "fact": "Sandman\nLord of the rings: The rigns of power\nDaredevil\nCyberpunk\n"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BITBOX CARIBE SRL"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de back-end",
+            "startDate": "2022-11-01",
+            "challenges": [
+              {
+                "description": "Skills: SQL · Análisis de datos · Gestión de proyectos · Laravel · Resolución de problemas · PHP"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Prixet Technology"
+        },
+        "roles": [
+          {
+            "name": "Gerente del departamento de desarrollo",
+            "startDate": "2021-01-01",
+            "finishDate": "2022-11-30",
+            "challenges": [
+              {
+                "description": "Skills: Creatividad · Resolución de problemas · Proactividad · Empatía · Liderazgo · Trabajo en equipo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Linom Consultants Corp."
+        },
+        "roles": [
+          {
+            "name": "Analista programador PHP",
+            "startDate": "2019-12-01",
+            "finishDate": "2021-02-28",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Linom Consultants Corp."
+        },
+        "roles": [
+          {
+            "name": "Especialista Helpdesk",
+            "startDate": "2019-02-01",
+            "finishDate": "2019-12-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "ES",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería en sistemas y computación",
+        "startDate": "2016-01-01",
+        "institution": {
+          "name": "Universidad Dominicana O&M",
+          "URL": "https://www.udoym.edu.do/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/fb1a6004-75b1-4672-be4b-cb94f57e095e_logo-oym-recuadro-az.jpg",
+            "alt": "logo-oym-recuadro-azul.jpg"
+          }
+        },
+        "finishDate": "2020-11-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/miguelangelmateotavarez/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/MiguelMateoTavarez",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/MiguelMateoT",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "miguelmateot94@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "8298909862",
+          "countryCode": "+1"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Full-stack Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría trabajar con personas con mayor conocimiento al que poseo actualmente con la capacidad de ser mentor y que a su vez existan retos considerables para mi crecimiento profesional"
+  }
+}
