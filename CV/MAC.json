@@ -159,6 +159,25 @@
           }
         },
         "finishDate": "2020-11-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Javascript moderno",
+        "startDate": "2023-02-01",
+        "institution": {
+          "name": "Devtalles",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/13/64b74581-62c9-4771-aa9b-5102d2640a53_jsmoderno.png",
+            "alt": "jsmoderno.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
