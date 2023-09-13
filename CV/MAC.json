@@ -131,12 +131,6 @@
       },
       {
         "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Postman",
           "type": "technology"
         }
