@@ -306,11 +306,11 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "NodeJS",
+          "name": "JavaScript",
           "type": "technology"
         },
         {
-          "name": "React",
+          "name": "TypeScript",
           "type": "technology"
         }
       ],
