@@ -312,10 +312,6 @@
         {
           "name": "React",
           "type": "technology"
-        },
-        {
-          "name": "Tailwind",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
