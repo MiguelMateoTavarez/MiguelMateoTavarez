@@ -6,10 +6,14 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Ing.",
-      "surnames": "Miguel Angel Mateo Tavarez",
+      "name": "Miguel Angel",
+      "surnames": "Mateo Tavarez",
       "title": "Ingeniero en sistemas | Programador backend",
-      "description": "Hola, soy Miguel Mateo, ingeniero en sistemas, tengo como objetivo primario\nllegar a adquirir toda la experiencia necesaria para poder contribuir a\ndesarrollar aplicaciones web de calidad con la meta de convertirme en un\nexcelente programador fullstack y mentor de nuevos talentos en el área."
+      "description": "Hola, soy Miguel Mateo, ingeniero en sistemas, tengo como objetivo primario\nllegar a adquirir toda la experiencia necesaria para poder contribuir a\ndesarrollar aplicaciones web de calidad con la meta de convertirme en un\nexcelente programador fullstack y mentor de nuevos talentos en el área.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ9bbx3jiIr44R4PcNBiQPAqY)",
+        "country": "República Dominicana"
+      }
     },
     "interestingFacts": [
       {
