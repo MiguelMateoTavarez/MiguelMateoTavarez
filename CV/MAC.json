@@ -119,6 +119,12 @@
       },
       {
         "skill": {
+          "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Nginx",
           "type": "technology"
         }
@@ -138,6 +144,12 @@
       {
         "skill": {
           "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       },
