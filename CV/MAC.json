@@ -182,6 +182,25 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "NestJS",
+        "startDate": "2023-08-01",
+        "institution": {
+          "name": "Devtalles",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/13/52e81eb2-d506-44e6-969f-7e52ab5f2b8a_nestorigin.png",
+            "alt": "nestorigin.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Nest",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "NodeJS",
         "startDate": "2023-05-01",
         "institution": {
