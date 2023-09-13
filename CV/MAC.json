@@ -178,6 +178,25 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Typescript",
+        "startDate": "2023-02-01",
+        "institution": {
+          "name": "Devtalles",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/13/e93027c8-9b31-4c1b-8456-0bc088341942_typescript.png",
+            "alt": "typescript.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
