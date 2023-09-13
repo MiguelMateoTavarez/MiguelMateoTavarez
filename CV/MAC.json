@@ -107,18 +107,6 @@
       },
       {
         "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Nest",
           "type": "technology"
         }
