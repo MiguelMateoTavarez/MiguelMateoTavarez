@@ -311,6 +311,14 @@
       {
         "name": "React",
         "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "nestJS",
+        "type": "technology"
       }
     ],
     "desiredJobDescription": "Me gustaría trabajar con personas con mayor conocimiento al que poseo actualmente con la capacidad de ser mentor y que a su vez existan retos considerables para mi crecimiento profesional"
