@@ -306,10 +306,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Laravel",
-          "type": "technology"
-        },
-        {
           "name": "NodeJS",
           "type": "technology"
         },
