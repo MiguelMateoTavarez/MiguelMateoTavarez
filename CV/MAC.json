@@ -182,6 +182,25 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "NodeJS",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Devtalles",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/13/fd18494a-a752-4706-8b7b-423147699571_node.png",
+            "alt": "node.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Typescript",
         "startDate": "2023-02-01",
         "institution": {
