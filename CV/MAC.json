@@ -113,12 +113,6 @@
       },
       {
         "skill": {
-          "name": "Nginx",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
