@@ -212,7 +212,17 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/13/cb8065ea-081b-4d1b-9293-e4ddb1596f40_solid.png",
             "alt": "solid.png"
           }
-        }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
