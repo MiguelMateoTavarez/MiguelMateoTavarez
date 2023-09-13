@@ -201,6 +201,19 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "SOLID & Clean Code",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Devtalles",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/13/cb8065ea-081b-4d1b-9293-e4ddb1596f40_solid.png",
+            "alt": "solid.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Typescript",
         "startDate": "2023-02-01",
         "institution": {
