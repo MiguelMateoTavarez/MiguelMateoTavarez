@@ -101,6 +101,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Laravel",
           "type": "technology"
         }
