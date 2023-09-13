@@ -173,6 +173,14 @@
         },
         "linkedCompetences": [
           {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
             "name": "nestJS",
             "type": "technology"
           }
