@@ -23,7 +23,7 @@
   </a>
 </div>
 
-Passionate about technology and developing trends, my interest in Javascript and its backend tools is growing day by day. Although Laravel is my comfort zone, I want to master Typescript, NodeJS, NestJS and NextJS.
+Passionate about technology and developing trends, my interest in Javascript and its backend tools is growing day by day. I want to master Typescript, NodeJS, NestJS, NextJS, React and React Native.
 
 - 💻I'm backend developer at BitBox Caribe SRL
 
