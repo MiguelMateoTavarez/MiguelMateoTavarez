@@ -23,7 +23,7 @@
   </a>
 </div>
 
-Passionate about technology and developing trends, my interest in Javascript and its backend tools is growing day by day. I want to master Typescript, NodeJS, NestJS, NextJS, React and React Native.
+A kind man with a big dream, walking with little but strong steps, happy to meet people that want to grow and share their knowledge, as I do.
 
 - 💻I'm backend developer at BitBox Caribe SRL
 
