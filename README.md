@@ -40,10 +40,10 @@ A kind man with a big dream, walking with little but strong steps, happy to meet
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ### Learning
-[![My Skills](https://skillicons.dev/icons?i=react,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ### Next to learn
-[![My Skills](https://skillicons.dev/icons?i=next,graphql,dart,flutter,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,react,next,graphql,dart,flutter,svelte)](https://skillicons.dev)
 
 ## Portfolio
 
