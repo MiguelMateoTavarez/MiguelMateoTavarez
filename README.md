@@ -34,7 +34,10 @@ A kind man with a big dream, walking with little but strong steps, happy to meet
 - 📚I Enjoy learn
 
 ### Learned
-[![My Skills](https://skillicons.dev/icons?i=git,javascript,typescript,nodejs,nest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,javascript,typescript,nest)](https://skillicons.dev)
+
+### To refresh
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ### Learning
 [![My Skills](https://skillicons.dev/icons?i=react,postgres,docker)](https://skillicons.dev)
