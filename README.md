@@ -25,13 +25,13 @@
 
 A kind man with a big dream, walking with little but strong steps, happy to meet people that want to grow and share their knowledge, as I do.
 
-- 💻I'm backend developer at BitBox Caribe SRL
+- 💻I'm a backend developer at BitBox Caribe SRL
 
-- ☕I Loves a fresh cup of coffee
+- ☕I Love a fresh cup of coffee
 
 - 🎧I'm not me if not listen music
 
-- 📚I Enjoy learn
+- 📚I enjoy learn
 
 ### Learned
 [![My Skills](https://skillicons.dev/icons?i=git,javascript,typescript,nest)](https://skillicons.dev)
