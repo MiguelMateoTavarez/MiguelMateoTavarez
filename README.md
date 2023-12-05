@@ -48,4 +48,3 @@ A kind man with a big dream, walking with little but strong steps, happy to meet
 ## Portfolio
 
 * [NextJS-Pokedex](https://nextjspokedex.miguelmateo.dev/)
-* [Gi-Finder](https://main--venerable-sorbet-9f59de.netlify.app/)
