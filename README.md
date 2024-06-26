@@ -42,4 +42,4 @@ A kind man with a big dream, walking with little but strong steps, happy to meet
 
 ## Portfolio
 
-* [NextJS-Pokedex](https://nextjspokedex.miguelmateo.dev/)
+  <!-- * [NextJS-Pokedex](https://nextjspokedex.miguelmateo.dev/) -->
