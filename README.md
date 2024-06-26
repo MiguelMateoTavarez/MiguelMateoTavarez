@@ -36,7 +36,7 @@ A kind man with a big dream, walking with little but strong steps, happy to meet
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,docker,postgresql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,angular)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
 
