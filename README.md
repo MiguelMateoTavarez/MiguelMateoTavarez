@@ -40,6 +40,4 @@ A kind man with a big dream, walking with little but strong steps, happy to meet
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
 
-## Portfolio
-
-  <!-- * [NextJS-Pokedex](https://nextjspokedex.miguelmateo.dev/) -->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W6Y5HA2)
