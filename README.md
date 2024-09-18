@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Miguel+Mateo!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
+  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=¡Hola+%F0%9F%91%8B%2C+Soy+Miguel+Mateo!" align="middle" alt="¡Hola! Soy Miguel Mateo animated typed out">
 </h1>
 <div align="left">
   <a target="_blank" href="https://twitter.com/MiguelMateoT">
@@ -16,17 +16,19 @@
   </a>
 </div>
 
-A kind man with a big dream, walking with little but strong steps, happy to meet people that want to grow and share their knowledge, as I do.
+Un hombre amable con un gran sueño, avanzando con pasos pequeños pero firmes. Siempre alegre al encontrarse con personas que desean crecer y compartir su conocimiento, tal como lo hago yo. Juntos, buscamos aprender, colaborar y hacer realidad nuestras aspiraciones, con la convicción de que el crecimiento es más valioso cuando se comparte."
 
-- 💻I'm a backend developer at BitBox Caribe SRL
+Esta versión mantiene el mensaje original, pero añade un toque de profundidad y conexión con el proceso de compartir y colaborar en el aprendizaje.
 
-- ☕I Love a fresh cup of coffee
+- 💻Soy desarrollador backend en BitBox Caribe SRL
 
-- 🎧I'm not me if not listen music
+- ☕Me encanta una taza de café recién hecha
 
-- 📚I enjoy learn
+- 🎧No soy yo mismo sin música
 
-### Tools
+- 📚Amo aprender cosas nuevas
+
+### Herramientas
 [![My Skills](https://skillicons.dev/icons?i=git,docker,postgresql)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,angular)](https://skillicons.dev)
