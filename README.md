@@ -14,13 +14,6 @@
       alt="LinkedIn"
     />
   </a>
-  <a 
-   href="https://app.daily.dev/MiguelMateot">
-  <img src="https://api.daily.dev/devcards/d1a761016ef94813811480b4d08390c4.png?r=8zc" 
-       width="300"
-       align="right"
-       alt="Miguel Mateo's Dev Card"/>
-  </a>
 </div>
 
 A kind man with a big dream, walking with little but strong steps, happy to meet people that want to grow and share their knowledge, as I do.
