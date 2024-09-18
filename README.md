@@ -8,7 +8,7 @@
 
 ### Sobre mi
 
-Un hombre amable con un gran sueño, avanzando con pasos pequeños pero firmes. Siempre alegre al encontrarse con personas que desean crecer y compartir su conocimiento, tal como lo hago yo. Juntos, buscamos aprender, colaborar y hacer realidad nuestras aspiraciones, con la convicción de que el crecimiento es más valioso cuando se comparte."
+Me considero alguien con un gran sueño, avanzando con pasos firmes. Siempre alegre al encontrarse con personas que desean crecer y compartir su conocimiento, tal como lo hago yo. Juntos, buscamos aprender, colaborar y hacer realidad nuestras aspiraciones, con la convicción de que el crecimiento es más valioso cuando se comparte."
 
 Esta versión mantiene el mensaje original, pero añade un toque de profundidad y conexión con el proceso de compartir y colaborar en el aprendizaje.
 
