@@ -35,4 +35,6 @@ Esta versión mantiene el mensaje original, pero añade un toque de profundidad 
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
 
+### Blog
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W6Y5HA2)
