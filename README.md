@@ -10,6 +10,8 @@
 
 Me considero alguien con un gran sueño, avanzando con pasos firmes. Siempre alegre al encontrarse con personas que desean crecer y compartir su conocimiento, tal como lo hago yo pues considero que el crecimiento es más valioso cuando se comparte.
 
+Estas son algunas de las características que me describen:
+
 - 💻Soy desarrollador backend en BitBox Caribe SRL
 
 - ☕Me encanta una taza de café recién hecha
