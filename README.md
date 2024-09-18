@@ -10,8 +10,6 @@
 
 Me considero alguien con un gran sueño, avanzando con pasos firmes. Siempre alegre al encontrarse con personas que desean crecer y compartir su conocimiento, tal como lo hago yo pues considero que el crecimiento es más valioso cuando se comparte.
 
-Esta versión mantiene el mensaje original, pero añade un toque de profundidad y conexión con el proceso de compartir y colaborar en el aprendizaje.
-
 - 💻Soy desarrollador backend en BitBox Caribe SRL
 
 - ☕Me encanta una taza de café recién hecha
