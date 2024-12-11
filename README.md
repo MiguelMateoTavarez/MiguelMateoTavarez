@@ -21,8 +21,8 @@ Estas son algunas de las características que me describen:
 - 📚Amo aprender cosas nuevas
 
 ### Mis herramientas
-[![My Skills](https://skillicons.dev/icons?i=git,docker,postgresql)](https://skillicons.dev)
+[![System](https://skillicons.dev/icons?i=git,docker,postgresql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,angular)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=javascript,typescript,angular)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=php,laravel,nestjs)](https://skillicons.dev)
