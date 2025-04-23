@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola!+Soy+Miguel+Mateo" align="middle" alt="¡Hola! Soy Miguel Mateo animated typed out" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2000&pause=1&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=535&height=80&lines=%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BBPasa%2C+el+c%C3%B3digo+es+limpio+y+el+caf%C3%A9;siempre+est%C3%A1+listo.%E2%98%95" alt="Typing SVG" />
 
 ### Blog
 
