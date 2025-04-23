@@ -1,6 +1,4 @@
-
-  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=¡Hola+%F0%9F%91%8B%2C+Soy+Miguel+Mateo!" align="middle" alt="¡Hola! Soy Miguel Mateo animated typed out">
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola!+Soy+Miguel+Mateo" align="middle" alt="¡Hola! Soy Miguel Mateo animated typed out" />
 
 ### Blog
 
