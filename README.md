@@ -1,12 +1,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2000&pause=1&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=535&height=80&lines=%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BBPasa%2C+el+c%C3%B3digo+es+limpio+y+el+caf%C3%A9;siempre+est%C3%A1+listo.%E2%98%95" alt="Typing SVG" />
 
-### Blog
+## Sobre mi
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W6Y5HA2)
+Ubicación: 🇩🇴 República Dominicana  
 
-### Sobre mi
+**Idiomas:** Español (nativo), Inglés (intermedio/avanzado)
 
-Me considero alguien con un gran sueño, avanzando con pasos firmes. Siempre alegre al encontrarse con personas que desean crecer y compartir su conocimiento, tal como lo hago yo pues considero que el crecimiento es más valioso cuando se comparte.
+Soy un desarrollador backend con experiencia en el diseño y construcción de APIs robustas y eficientes. Apasionado por las tecnologías modernas de JS/TS y enfocado en construir soluciones mantenibles y escalables. Actualmente me desempeño como freelancer, enfocado en soluciones web usando Angular en el frontend y NestJS en el backend.
 
 Estas son algunas de las características que me describen:
 
@@ -18,9 +18,7 @@ Estas son algunas de las características que me describen:
 
 - 📚Amo aprender cosas nuevas
 
-### Mis herramientas
-[![System](https://skillicons.dev/icons?i=git,docker,postgresql)](https://skillicons.dev)
+## Mis herramientas
+[![System](https://skillicons.dev/icons?i=typescript,angular,nestjs,prisma)](https://skillicons.dev)
 
-[![Frontend](https://skillicons.dev/icons?i=javascript,typescript,angular)](https://skillicons.dev)
-
-[![Backend](https://skillicons.dev/icons?i=php,laravel,nestjs)](https://skillicons.dev)
+[![System](https://skillicons.dev/icons?i=git,github,docker,postgresql)](https://skillicons.dev)
